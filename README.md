@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello :wave:
 
-<!--
-**luizdepra/luizdepra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Luiz F. A. de Prá. I'm a software developer from Curitiba, Brazil and I'm currently working at @olist as a Python Developer.
 
-Here are some ideas to get you started:
+My interests are:
+- Software Engineering in general :technologist:
+- Game Development :video_game:
+- Python :snake: and Rust :crab:
+- Books :books:
+- Woodworking :clamp:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some interesting links about me:
+
+- [Blog](luizdepra.dev)
+- [Github](https://github.com/luizdepra/)
+- [Twitter](https://twitter.com/luizdepra)
+- [LinkedIn](https://www.linkedin.com/in/luizdepra/)
