@@ -11,7 +11,7 @@ My interests are:
 
 Here are some interesting links about me:
 
-- [Blog](luizdepra.dev)
+- [Blog](https://luizdepra.dev)
 - [Github](https://github.com/luizdepra/)
 - [Twitter](https://twitter.com/luizdepra)
 - [LinkedIn](https://www.linkedin.com/in/luizdepra/)
